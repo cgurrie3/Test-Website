@@ -1,0 +1,82 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #ffff7e;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSerifPro-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 78px;
+  top: 109px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSerifPro-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 947px;
+  top: 109px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSerifPro-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 1095px;
+  top: 109px;
+}
+.contact2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SourceSerifPro-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 1246px;
+  top: 109px;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font-family: "SourceSerifPro-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 201px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #000000;
+  text-align: center;
+  font-family: "SourceSerifPro-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 205px;
+  top: 391px;
+  width: 1030px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
